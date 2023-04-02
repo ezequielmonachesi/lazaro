@@ -8,3 +8,9 @@ body{
     backdrop-filter: blur(4px);
 }
 */
+.fondo{
+    background: url(../img/Group\ 1.png);
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: repeat;
+}
